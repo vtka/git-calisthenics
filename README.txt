@@ -9,3 +9,7 @@
 "Git who?"
 
 "Git on with the assignment!"
+
+Check conflicts
+
+"Git this joke over with."
